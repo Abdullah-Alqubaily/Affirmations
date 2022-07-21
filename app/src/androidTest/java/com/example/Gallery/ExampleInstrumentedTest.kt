@@ -1,6 +1,5 @@
-package com.example.affirmations
+package com.example.Gallery
 
-import androidx.test.ext.junit.rules.ActivityScenarioRule
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
 

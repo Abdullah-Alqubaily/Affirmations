@@ -1,4 +1,4 @@
-package com.example.affirmations
+package com.example.Gallery
 
 import androidx.recyclerview.widget.RecyclerView
 import androidx.test.espresso.Espresso.onView
