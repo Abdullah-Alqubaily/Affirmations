@@ -1,11 +1,10 @@
-package com.example.affirmations
+package com.example.Gallery
 
 import android.os.Bundle
-import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.example.affirmations.adapter.ItemAdapter
-import com.example.affirmations.data.Datasource
-import com.example.affirmations.databinding.ActivityMainBinding
+import com.example.Gallery.adapter.ItemAdapter
+import com.example.Gallery.data.Datasource
+import com.example.Gallery.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding : ActivityMainBinding

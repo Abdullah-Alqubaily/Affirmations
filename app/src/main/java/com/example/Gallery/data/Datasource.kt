@@ -1,7 +1,7 @@
-package com.example.affirmations.data
+package com.example.Gallery.data
 
-import com.example.affirmations.R
-import com.example.affirmations.model.Affirmation
+import com.example.Gallery.R
+import com.example.Gallery.model.Affirmation
 
 class Datasource {
     fun loadAffirmations(): List<Affirmation> {

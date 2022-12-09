@@ -1,4 +1,4 @@
-package com.example.affirmations.model
+package com.example.Gallery.model
 
 import androidx.annotation.DrawableRes
 

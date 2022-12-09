@@ -1,4 +1,4 @@
-package com.example.affirmations
+package com.example.Gallery
 
 import org.junit.Test
 

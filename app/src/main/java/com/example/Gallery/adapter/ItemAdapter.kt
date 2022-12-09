@@ -1,4 +1,4 @@
-package com.example.affirmations.adapter
+package com.example.Gallery.adapter
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -7,8 +7,8 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
-import com.example.affirmations.R
-import com.example.affirmations.model.Affirmation
+import com.example.Gallery.R
+import com.example.Gallery.model.Affirmation
 
 class ItemAdapter(private val context: Context,
                   private val dataset: List<Affirmation>
